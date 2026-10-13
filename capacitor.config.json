@@ -1,0 +1,6 @@
+{
+  "appId": "com.landed.app",
+  "appName": "Landed",
+  "webDir": "www",
+  "ios": { "contentInset": "always" }
+}
